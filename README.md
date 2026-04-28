@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Farhan Bin Hossain
 
-<!--
-**farhanbin65/farhanbin65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computing Systems student building full-stack and AI-adjacent projects.
 
-Here are some ideas to get you started:
+🔭 **Currently working on:** [Orcchestrator Pulse](https://github.com/farhanbin65/orchestrator_pulse) — my automation Pipeline project, built uusing React + Groq API + Pillow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Recently shipped:** [AI Chatbot](https://farhans-chatbot.vercel.app) using Groq's LLaMA 3.3 70B.
+
+🛠️ **Stack:** TypeScript · React · Angular · Node · Python · Flask · MongoDB · LangChain
+
+📫 **Reach me:** farhanbin65@gmail.com · [LinkedIn](https://www.linkedin.com/in/farhanbin/)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanbin65&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
