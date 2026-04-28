@@ -2,13 +2,9 @@
 
 Final-year Computing Systems student building full-stack and AI-adjacent projects.
 
-🔭 **Currently working on:** [Orcchestrator Pulse](https://github.com/farhanbin65/orchestrator_pulse) — my automation Pipeline project, built uusing React + Groq API + Pillow.
+**Stack:** TypeScript · React · Angular · Node · Python · Flask · MongoDB · LangChain
 
-🌱 **Recently shipped:** [AI Chatbot](https://farhans-chatbot.vercel.app) using Groq's LLaMA 3.3 70B.
-
-🛠️ **Stack:** TypeScript · React · Angular · Node · Python · Flask · MongoDB · LangChain
-
-📫 **Reach me:** farhanbin65@gmail.com · [LinkedIn](https://www.linkedin.com/in/farhanbin/)
+**Reach me:** farhanbin65@gmail.com · [LinkedIn](https://www.linkedin.com/in/farhanbin/)
 
 ---
 
