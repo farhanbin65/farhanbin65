@@ -4,6 +4,8 @@ Final-year Computing Systems student building full-stack and AI-adjacent project
 
 **Stack:** TypeScript · React · Angular · Node · Python · Flask · MongoDB · LangChain
 
+**Portfolio: ** [Farhan's Portfolio](https://farhanbin.dev)
+
 **Reach me:** farhanbin65@gmail.com · [LinkedIn](https://www.linkedin.com/in/farhanbin/)
 
 ---
