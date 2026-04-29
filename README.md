@@ -14,5 +14,6 @@ Final-year Computing Systems student building full-stack and AI-adjacent project
 
 ---
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farhanbin65&theme=radical)](https://git.io/streak-stats)
 [![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api/?username=farhanbin65&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanbin65&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
