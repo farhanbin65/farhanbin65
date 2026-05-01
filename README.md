@@ -36,10 +36,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanbin65&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
 <a href="https://git.io/streak-stats">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanbin65&theme=tokyonight&hide_border=true" />
 </a>
