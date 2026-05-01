@@ -6,9 +6,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=farhanbin65&style=for-the-badge&color=8b5cf6)
 
 </div>
-**Currently working on:** my dissertation — a business directory web app using React, scikit-learn, and SHAP for explainable recommendations.
-
-**Recently shipped:** [AI Chatbot](https://farhans-chatbot.vercel.app) powered by Groq's LLaMA 3.3 70B (React + Node/Express).
 
 <div align="center">
 
@@ -23,13 +20,31 @@
 
 </div>
 
-**Portfolio:** [farhanbin.dev](https://farhanbin.dev)
+## 🌐 Connect with me
 
-**Reach me:** [farhanbin65@gmail.com](mailto:farhanbin65@gmail.com) · [LinkedIn](https://www.linkedin.com/in/farhanbin/)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://farhanbin.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanbin65@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhanbin/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhanbin65)
+
+</div>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanbin65&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farhanbin65&theme=radical)](https://git.io/streak-stats)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanbin65&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanbin65&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
 
 ## 📈 Activity Graph
 
