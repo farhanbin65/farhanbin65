@@ -13,7 +13,9 @@ Final-year Computing Systems student building full-stack and AI-adjacent project
 **Reach me:** [farhanbin65@gmail.com](mailto:farhanbin65@gmail.com) · [LinkedIn](https://www.linkedin.com/in/farhanbin/)
 
 ---
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farhanbin65&theme=radical)](https://git.io/streak-stats)
-[![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhanbin65&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanbin65&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farhanbin65&theme=radical)](https://git.io/streak-stats)
+
+## 📈 Activity Graph
+
+[![Farhan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farhanbin65&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
