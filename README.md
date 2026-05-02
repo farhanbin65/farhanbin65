@@ -1,7 +1,7 @@
 <div align="center">
 
 # I'm Farhan 
-### Final-year Computing Systems student • Full-stack developer • London
+### Final-year Computing Systems student • Full-stack developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=farhanbin65&style=for-the-badge&color=8b5cf6)
 
